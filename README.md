@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Solidity, Javascript**
 
-- 👯 I’m looking to collaborate on **NFT´s / Blockchain projects**
+- 👯 I’m looking to collaborate on **NFT´s / Blockchain / Smart Contracts**
 
 - 🤝 I’m looking for help with **Solidity**
 
