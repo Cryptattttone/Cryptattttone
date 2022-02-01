@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **cryptattttone@gmail.com**
 
-- ⚡ Fun fact **I´m and industrial engineer breaking through coding for the Blockchain, also a multidisciplinary artist..**
+- ⚡ Fun fact **I´m and industrial engineer, also a multidisciplinary artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
