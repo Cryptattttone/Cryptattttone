@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tone</h1>
-<h3 align="center">A passionate beginner Blockchain Developer from Mexico</h3>
+<h3 align="center">A passionate Blockchain Developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://img.search.brave.com/qiw7lYj6hQUoVIYdMlD5C2NsgZ_DjnhxC2MODN2GCbQ/fit/905/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/WlcwSVBSZjR6VHk1/aFQzb0tISGtRSGFE/NCZwaWQ9QXBp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptattttone&label=Profile%20views&color=0e75b6&style=flat" alt="cryptattttone" /> </p>
