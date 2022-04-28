@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tone</h1>
-<h3 align="center">A passionate Blockchain Developer from Mexico</h3>
+<h3 align="center">A passionate Junior Developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://img.search.brave.com/qiw7lYj6hQUoVIYdMlD5C2NsgZ_DjnhxC2MODN2GCbQ/fit/905/225/ce/1/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/WlcwSVBSZjR6VHk1/aFQzb0tISGtRSGFE/NCZwaWQ9QXBp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptattttone&label=Profile%20views&color=0e75b6&style=flat" alt="cryptattttone" /> </p>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/cryptattttone" target="blank"><img src="https://img.shields.io/twitter/follow/cryptattttone?logo=twitter&style=for-the-badge" alt="cryptattttone" /></a> </p>
 
-- 🔭 I’m currently working with **Solidity**
+- 🔭 I’m currently working with **Javascript**
 
-- 🌱 I’m currently learning **Solidity, Javascript**
+- 🌱 I’m currently learning **Solidity, React.js**
 
 - 👯 I’m looking to collaborate on **NFT´s / Blockchain / Smart Contracts**
 
-- 🤝 I’m looking for help with **Solidity**
+- 🤝 I’m looking for help with **Solidity and React.js**
 
 - 📫 How to reach me **cryptattttone@gmail.com**
 
