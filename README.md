@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Education / Blockchain / Smart Contracts**
 
-- 🤝 I’m looking for help with **Solana bulding**
+- 🤝 I’m looking for help with **Solana building**
 
 - 📫 How to reach me **cryptattttone@gmail.com**
 
