@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working with **Javascript**
 
-- 🌱 I’m currently learning **Solidity, React.js**
+- 🌱 I’m currently learning **Vibe-coding**
 
-- 👯 I’m looking to collaborate on **NFT´s / Blockchain / Smart Contracts**
+- 👯 I’m looking to collaborate on **Education / Blockchain / Smart Contracts**
 
-- 🤝 I’m looking for help with **Solidity and React.js**
+- 🤝 I’m looking for help with **Solana bulding**
 
 - 📫 How to reach me **cryptattttone@gmail.com**
 
